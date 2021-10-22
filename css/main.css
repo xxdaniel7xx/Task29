@@ -1,0 +1,15 @@
+h1, h3 {
+    text-align: center;
+}
+
+.main-title {
+    margin: 20px 0px;
+}
+
+.input {
+    margin: 20px 0px;
+}
+
+.section1, .section2 {
+    margin-bottom: 20px;
+}
